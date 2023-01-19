@@ -1,0 +1,1 @@
+This was a memory management exercise. The main function in the executable was provided by the instructor. My job was to implement the desired functions that would produce the expected behavior of managing and correctly assigning memory slots in a 'Data Store' scenario.
